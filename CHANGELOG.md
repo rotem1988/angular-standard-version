@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/rotem1988/angular-standard-version/compare/v0.0.2...v0.0.3) (2020-05-28)
+
+
+### Features
+
+* **new-parser:** introduces a new parsing library ([a854ae9](https://github.com/rotem1988/angular-standard-version/commit/a854ae9cdde4ca831f158854078bb6dce709f8b3))
+
 ### [0.0.2](https://github.com/rotem1988/angular-standard-version/compare/v0.0.1...v0.0.2) (2019-11-04)
 
 
